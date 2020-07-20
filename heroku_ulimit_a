@@ -1,0 +1,4 @@
+#!/bin/bash
+
+limit=$(ulimit -a)
+echo $limit
