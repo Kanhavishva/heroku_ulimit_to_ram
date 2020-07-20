@@ -1,0 +1,3 @@
+#!/bin/bash
+export DYNO_RAM=1024
+export WEB_CONCURRENCY=${WEB_CONCURRENCY:-4}
